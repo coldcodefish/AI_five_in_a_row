@@ -209,4 +209,3 @@ DQN算法与MCTS算法的实现有一些问题，一时半会解决不了。
    https://baike.baidu.com/item/%e7%ad%96%e6%a2%85%e6%b4%9b%e5%ae%9a%e7%90%86
 7. -Reinforcement-Learning-five-in-a-row- (QDN)
    https://github.com/zhijs/-Reinforcement-Learning-five-in-a-row-.git
-，至少做的东西都是自己的。(算是发的一点牢骚与下次做选择的参考)
