@@ -58,7 +58,7 @@ PS: 带有禁手的五子棋介绍
 尽力寻找那条通向胜利的路线，并诱使对手偏离最优解。
 
 ## 五子棋界面设计
-![界面初次设计](页面设计/艰难胜利一局.png)
+![界面初次设计](页面设计/艰难胜利一局.png) 
 
 正中间(上方)为棋盘，下方为记录与按钮。  
 ### 显示部分
@@ -195,17 +195,12 @@ DQN算法与MCTS算法的实现有一些问题，一时半会解决不了。
 非常感谢老师期中的指导，也非常感谢各位同学的聆听。
 
 ## 参考内容(ref)  
-1. 爆火斯坦福「AI小镇」开源，自己电脑也能跑的西部世界｜GitHub 1.3K星 - 量子位的文章 - 知乎  
-   https://zhuanlan.zhihu.com/p/6491836
-2. 象棋中先手方有多大的优势？ - 林少佳的回答 - 知乎  
-   https://www.zhihu.com/question/448209035/answer/1768831295
-3. 五子棋先下的一定赢吗？如何证明？ - 胡天硕的回答 - 知乎  
-   https://www.zhihu.com/question/24053236/answer/32848231
-4. 强化学习入门：基本思想和经典算法 - 张浩的文章 - 知乎  
-   https://zhuanlan.zhihu.com/p/466455380
-5. gobang_AI(博弈树极大极小值alpha-beta剪枝搜索)
-   https://github.com/colingogogo/gobang_AI.git
-6. 策梅洛定理
-   https://baike.baidu.com/item/%e7%ad%96%e6%a2%85%e6%b4%9b%e5%ae%9a%e7%90%86
-7. -Reinforcement-Learning-five-in-a-row- (QDN)
-   https://github.com/zhijs/-Reinforcement-Learning-five-in-a-row-.git
+1. 爆火斯坦福「AI小镇」开源，自己电脑也能跑的西部世界｜GitHub 1.3K星 - 量子位的文章 - 知乎  https://zhuanlan.zhihu.com/p/6491836
+2. 象棋中先手方有多大的优势？ - 林少佳的回答 - 知乎  https://www.zhihu.com/question/448209035/answer/1768831295
+3. 五子棋先下的一定赢吗？如何证明？ - 胡天硕的回答 - 知乎  https://www.zhihu.com/question/24053236/answer/32848231
+4. 强化学习入门：基本思想和经典算法 - 张浩的文章 - 知乎  https://zhuanlan.zhihu.com/p/466455380
+5. gobang_AI(博弈树极大极小值alpha-beta剪枝搜索)https://github.com/colingogogo/gobang_AI.git
+6. 策梅洛定理https://baike.baidu.com/item/%e7%ad%96%e6%a2%85%e6%b4%9b%e5%ae%9a%e7%90%86
+7. -Reinforcement-Learning-five-in-a-row- (QDN)https://github.com/zhijs/-Reinforcement-Learning-five-in-a-row-.git
+
+
