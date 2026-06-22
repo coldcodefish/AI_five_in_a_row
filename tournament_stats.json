@@ -1,0 +1,52 @@
+{
+  "贪心评分": {
+    "black_wins": 126.5,
+    "white_wins": 129.0,
+    "black_games": 200,
+    "white_games": 200,
+    "black_avg_time": 0.76,
+    "white_avg_time": 0.43,
+    "black_avg_moves": 26.3,
+    "white_avg_moves": 14.5
+  },
+  "随机": {
+    "black_wins": 0.0,
+    "white_wins": 0.0,
+    "black_games": 200,
+    "white_games": 200,
+    "black_avg_time": 0.1,
+    "white_avg_time": 0.13,
+    "black_avg_moves": 9.5,
+    "white_avg_moves": 7.9
+  },
+  "Negamax": {
+    "black_wins": 197.0,
+    "white_wins": 142.5,
+    "black_games": 200,
+    "white_games": 200,
+    "black_avg_time": 2.07,
+    "white_avg_time": 2.49,
+    "black_avg_moves": 13.9,
+    "white_avg_moves": 25.6
+  },
+  "MCTS": {
+    "black_wins": 128.5,
+    "white_wins": 126.5,
+    "black_games": 200,
+    "white_games": 200,
+    "black_avg_time": 0.81,
+    "white_avg_time": 0.42,
+    "black_avg_moves": 18.3,
+    "white_avg_moves": 20.0
+  },
+  "DQN": {
+    "black_wins": 100.0,
+    "white_wins": 50.0,
+    "black_games": 200,
+    "white_games": 200,
+    "black_avg_time": 1.58,
+    "white_avg_time": 1.85,
+    "black_avg_moves": 19.1,
+    "white_avg_moves": 16.2
+  }
+}
